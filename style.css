@@ -314,6 +314,15 @@ section {
   margin: auto 0;
 }
 
+.certificate-link {
+  cursor: pointer;
+}
+
+.certificate-link:hover {
+  /* text-decoration: underline; */
+  font-weight: bold;
+}
+
 /* EXPERIENCE SECTION */
 
 #experience {
